@@ -18,3 +18,12 @@ The room booking request is sent to hotel administrator. This is the admin job t
 After the room is confirmed, user will get an option to pay the amount as per the services.
 After the user checks out, user will pay the amount and an entry will be made to room booking history.
 If any change to plans happens and user opts to extend his stay at the hotel, there is an option available to extend the check out date.
+
+
+Developers :
+G Udaykiran (R22EH152)
+K Karthik (R22EH155)
+G Thanuja (R22EH153)
+Rekha (R22EH156)
+
+Reva University, Rukmini Knowledge Park, Yelahanka, Kattigenahalli, Bengaluru, Sathanur, Karnataka 560064
