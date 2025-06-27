@@ -365,8 +365,6 @@
 				<h4>Developers :</h4>
 				<h5>G Udaykiran(R22EH152)</h5>
 				<h5>K Karthik(R22EH155)</h5>
-				<h5>G Thanuja(R2EH153)</h5>
-				<h5>Rekha(R22EH156)</h5>
 				<p>Reva University ,Rukmini Knowledge Park, Yelahanka, Kattigenahalli, Bengaluru, Sathanur, Karnataka 560064</p>
 			</div>
 		</footer>

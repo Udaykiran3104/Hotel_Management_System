@@ -80,7 +80,7 @@
 	}
 	input:hover, input:active 
 	{
-		background-color: ##FFE8D6;
+		background-color: #FFE8D6;
 		box-shadow: 1px 1px 0.5px  black;
 	}
 	img{

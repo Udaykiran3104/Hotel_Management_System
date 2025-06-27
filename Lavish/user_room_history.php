@@ -109,7 +109,7 @@
 		<li><a href="user_booking_history.php" class="active">Booking History</a></li>
 		<li><a href="index.php">Logout</a></li>
 	</ul>
-	<div style="margin-left:25%;padding:1px 16px;height:100%;position;relative;">
+	<div style="margin-left:25%;padding:1px 16px;height:100%;position:relative;">
 		<p style="margin-left: 10%; margin-top: 5%; font-size: 28px;"></p>
 				<?php
 			$conn = new mysqli("localhost","root","", "iwp");
