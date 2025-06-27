@@ -58,78 +58,94 @@ Lavish Inn is a dynamic **Hotel Room Booking System** built with PHP and MySQL. 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Udaykiran3104/Lavish-Inn.git
-  
-2. **Move to XAMPP Directory**
+
+2. **Move to XAMPP Directory**  
    Place the project folder in:
+   ```bash
    C:/xampp/htdocs/Lavish-Inn/
-   
+
 3. **Start Services**
-   -- Open XAMPP Control Panel
-   -- Start Apache and MySQL
+   - Open **XAMPP Control Panel**
+   - Start **Apache** and **MySQL**
 
 4. **Configure the Database**
-   -- Go to http://localhost/phpmyadmin
-   -- Create a new database: lavish_inn
-   -- Import the provided SQL file (lavish_inn.sql) from the database/ folder
+   - Go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+   - Create a new database: `lavish_inn`
+   - Import the provided SQL file (`lavish_inn.sql`) from the `database/` folder
 
-6. **Configure reCAPTCHA**
-   -- Register at Google reCAPTCHA
-   -- Replace your site key and secret key in the login/signup PHP files:
-       $secretKey = "YOUR_SECRET_KEY";
-  
-8. Launch the App
-   -- Open browser and navigate to:
-    http://localhost/Lavish-Inn/
+5. **Configure reCAPTCHA**
+   - Register at [Google reCAPTCHA](https://www.google.com/recaptcha/admin/)
+   - Replace your site key and secret key in the login/signup PHP files:
+     ```php
+     $secretKey = "YOUR_SECRET_KEY";
+     ```
 
-### 🗂️ Project Structure
-Lavish-Inn/
-├── admin/
-│   ├── login.php
-│   ├── dashboard.php
-│   └── ...
-├── user/
-│   ├── signup.php
-│   ├── login.php
-│   ├── book_room.php
-│   └── ...
-├── images/
-├── includes/
-│   └── db_config.php
-├── database/
-│   └── lavish_inn.sql
-├── index.html
-└── README.md
+6. **Launch the App**
+   Open a browser and navigate to:
+   ```bash
+   http://localhost/Lavish-Inn/
 
-### Screenshots
-Home Page
+## 🗂️ Project Structure
 
-Room Gallery
+   ```bash
+   Lavish-Inn/
+   ├── admin/
+   │   ├── login.php
+   │   ├── dashboard.php
+   │   └── ...
+   ├── user/
+   │   ├── signup.php
+   │   ├── login.php
+   │   ├── book_room.php
+   │   └── ...
+   ├── images/
+   ├── includes/
+   │   └── db_config.php
+   ├── database/
+   │   └── lavish_inn.sql
+   ├── index.html
+   └── README.md
+   ---
+📸 Screenshots
 
-User Login/Signup with reCAPTCHA
+- Home Page  
+- Room Gallery  
+- User Login/Signup with reCAPTCHA  
+- Booking Page  
+- Admin Dashboard  
+- Booking History View  
 
-Booking Page
+*You can add images to a `/screenshots` folder and embed them like this:*
 
-Admin Dashboard
+```markdown
+![Home Page](screenshots/home.png)
+![Room Gallery](screenshots/gallery.png)
+![User Login](screenshots/user_login.png)
+![Booking Page](screenshots/booking.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
+![Booking History](screenshots/history.png)
 
-Booking History View
+---
 
-(You can add images to a /screenshots folder and link them here)
+## ⚠️ Known Limitations
 
-### ⚠️ Known Limitations
-  -- No real payment integration – The system simulates payment success via a dummy button.
-  -- Basic session and input handling – Could be enhanced for better security and scalability.
-  -- No mobile optimization – The design is best viewed on desktop.
+- No real payment integration – The system simulates payment success via a dummy button
+- Basic session and input handling – Could be enhanced for better security and scalability
+- No mobile optimization – The design is best viewed on desktop
 
-###🌟 Future Enhancements
-  -- Integrate real payment gateways like Razorpay, Stripe, or PayPal
-  -- Add email/SMS notifications for booking status
-  -- Enable PDF invoice generation
-  -- Build mobile-responsive UI
-  -- Add analytics dashboard for admin insights
-  -- Implement multi-admin support and role-based access
+---
 
+## 🌟 Future Enhancements
 
+- Integrate real payment gateways like Razorpay, Stripe, or PayPal
+- Add email/SMS notifications for booking status
+- Enable PDF invoice generation
+- Build mobile-responsive UI
+- Add analytics dashboard for admin insights
+- Implement multi-admin support and role-based access
 
-### 📄 License
-This project is open-source and available under the MIT License. Free to use and modify with proper attribution.
+---
 
+## 📄 License
+
+This project is open-source and available under the **MIT License**. Free to use and modify with proper attribution.
