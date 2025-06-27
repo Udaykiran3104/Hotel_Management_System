@@ -97,7 +97,6 @@ Lavish Inn is a dynamic **Hotel Room Booking System** built with PHP and MySQL. 
 - Booking Page  
 - Booking History View  
 
-```markdown
 ![Home Page](Screenshots/Home%20page.jpg)
 ![Room Gallery](Screenshots/Room%20Gallery.jpg)
 ![Image Gallery](Screenshots/Image%20Gallery.jpg)
