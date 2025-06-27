@@ -89,23 +89,29 @@ Lavish Inn is a dynamic **Hotel Room Booking System** built with PHP and MySQL. 
 ## 📸 Screenshots
 
 - Home Page  
-- Room Gallery
-- Image Gallery  
-- Admin Login 
-- Admin Dashboard  
-- User Login
-- Booking Page  
-- Booking History View  
+  ![Home Page](Screenshots/Home%20page.jpg)
 
-![Home Page](Screenshots/Home%20page.jpg)
-![Room Gallery](Screenshots/Room%20Gallery.jpg)
-![Image Gallery](Screenshots/Image%20Gallery.jpg)
-![Admin Login](Screenshots/Admin%20Login%20Page.jpg)
-![Admin Dashboard](Screenshots/Admin%20Dashboard.jpg)
-![User Login](Screenshots/User%20Login%20Page.jpg)
-![Booking Page](Screenshots/Room%20Booking%20Page1.jpg)
-![Booking Page](Screenshots/Room%20Booking%20Page2.jpg)
-![Booking History](Screenshots/User_Booking%20history%20Page.jpg)
+- Room Gallery
+  ![Room Gallery](Screenshots/Room%20Gallery.jpg)
+
+- Image Gallery  
+  ![Image Gallery](Screenshots/Image%20Gallery.jpg)
+
+- Admin Login
+  ![Admin Login](Screenshots/Admin%20Login%20Page.jpg)
+
+- Admin Dashboard
+  ![Admin Dashboard](Screenshots/Admin%20Dashboard.jpg)
+
+- User Login
+  ![User Login](Screenshots/User%20Login%20Page.jpg)
+
+- Booking Page
+  ![Booking Page](Screenshots/Room%20Booking%20Page1.jpg)
+  ![Booking Page](Screenshots/Room%20Booking%20Page2.jpg)
+
+- Booking History View  
+  ![Booking History](Screenshots/User_Booking%20history%20Page.jpg)
 
 ---
 
