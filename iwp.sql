@@ -39,7 +39,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`adminid`, `password`, `empid`) VALUES
-('sachin', '1234', 'sachin');
+('uday', '3104', 'uk3104');
 
 -- --------------------------------------------------------
 
