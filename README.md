@@ -85,45 +85,28 @@ Lavish Inn is a dynamic **Hotel Room Booking System** built with PHP and MySQL. 
    ```bash
    http://localhost/Lavish-Inn/
 
-## 🗂️ Project Structure
 
-   ```bash
-   Lavish-Inn/
-   ├── admin/
-   │   ├── login.php
-   │   ├── dashboard.php
-   │   └── ...
-   ├── user/
-   │   ├── signup.php
-   │   ├── login.php
-   │   ├── book_room.php
-   │   └── ...
-   ├── images/
-   ├── includes/
-   │   └── db_config.php
-   ├── database/
-   │   └── lavish_inn.sql
-   ├── index.html
-   └── README.md
-   ---
-📸 Screenshots
+## 📸 Screenshots
 
 - Home Page  
-- Room Gallery  
-- User Login/Signup with reCAPTCHA  
-- Booking Page  
+- Room Gallery
+- Image Gallery  
+- Admin Login 
 - Admin Dashboard  
+- User Login
+- Booking Page  
 - Booking History View  
 
-*You can add images to a `/screenshots` folder and embed them like this:*
-
 ```markdown
-![Home Page](screenshots/home.png)
-![Room Gallery](screenshots/gallery.png)
-![User Login](screenshots/user_login.png)
-![Booking Page](screenshots/booking.png)
-![Admin Dashboard](screenshots/admin_dashboard.png)
-![Booking History](screenshots/history.png)
+![Home Page](Screenshots/Home%20page.jpg)
+![Room Gallery](Screenshots/Room%20Gallery.jpg)
+![Image Gallery](Screenshots/Image%20Gallery.jpg)
+![Admin Login](Screenshots/Admin%20Login%20Page.jpg)
+![Admin Dashboard](Screenshots/Admin%20Dashboard.jpg)
+![User Login](Screenshots/User%20Login%20Page.jpg)
+![Booking Page](Screenshots/Room%20Booking%20Page1.jpg)
+![Booking Page](Screenshots/Room%20Booking%20Page2.jpg)
+![Booking History](Screenshots/User_Booking%20history%20Page.jpg)
 
 ---
 
